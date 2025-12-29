@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+
 title: David Su 
 #logo:
 #description this is under the logo/profile pic
