@@ -1,4 +1,4 @@
-# Yutong David Su
+# David Su
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/david-su-5b041037b/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:yutongdavidsu@gmail.com)
@@ -22,7 +22,7 @@ As a recent graduate, I am looking to start my career in data analytics with a f
 - **AI Tools**: Experienced in leveraging AI technologies
 
 ### Other Skills
-- Microsoft Office and Google Workspace proficiency
+- **Microsoft Office** and **Google Workspace** proficiency
 - **Languages**: English and Mandarin
 
 ## Experience
