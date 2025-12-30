@@ -1,11 +1,6 @@
 # David Su
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/david-su-5b041037b/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:yutongdavidsu@gmail.com)
-
-## About Me
-
-As a recent graduate, I am looking to start my career in data analytics with a focus on roles that involve working with data, identifying insights, and supporting decision-making. I am enthusiastic about applying analytical thinking to solve real-world problems and contributing to projects that drive meaningful outcomes. My goal is to grow within a forward-thinking organisation where I can continue developing skills and add value through a detail-oriented and results-driven approach.
 
 ## Skills
 
