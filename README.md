@@ -1,5 +1,3 @@
-# David Su
-
 ## Skills
 
 ### Programming & Development
