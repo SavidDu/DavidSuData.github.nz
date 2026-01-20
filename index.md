@@ -16,6 +16,9 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
+---
+---
+
 ## Skills
 
 ### Programming & Development
