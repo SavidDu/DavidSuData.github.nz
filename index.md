@@ -16,8 +16,6 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
-&nbsp;
-
 ## Projects
 
 ### [Coffee Shop Analysis](https://github.com/SavidDu/coffeeShopAnalysis)
