@@ -13,10 +13,10 @@
          width="22" height="22"
          style="vertical-align:middle;">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
 </p>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 ## Projects
 
