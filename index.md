@@ -22,7 +22,7 @@
 
 ### [Coffee Shop Analysis](https://github.com/SavidDu/coffeeShopAnalysis)
 
-Performed Excel-based sales analysis to uncover key business insights.
+**Performed Excel-based sales analysis to uncover key business insights.**
 
 - Analysed structured sales data across multiple tables (orders, customers, products) to assess overall business performance
 - Cleaned, organised, and explored data using Excel to identify sales trends, top-selling products, and profitability drivers
@@ -60,15 +60,6 @@ Performed Excel-based sales analysis to uncover key business insights.
 
 ---
 
-## Education
-
-### BSc in Data Analytics | University of Waikato
-**Hamilton, New Zealand** | February 2021 - April 2025
-
-- Awarded 'Ko Te Tangata' School Leaver Scholarship
-
----
-
 ## Skills
 
 **Dashboards:** Power BI, Excel, Tableau
@@ -76,6 +67,15 @@ Performed Excel-based sales analysis to uncover key business insights.
 **Databases:** Oracle, MongoDB, MS SQL
 
 **Languages:** Python, C#, Java, R, HTML5, PHP, Matlab
+
+---
+
+## Education
+
+### BSc in Data Analytics | University of Waikato
+**Hamilton, New Zealand** | February 2021 - April 2025
+
+- Awarded 'Ko Te Tangata' School Leaver Scholarship
 
 ---
 
